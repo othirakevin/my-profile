@@ -1,6 +1,9 @@
-body{
+body {
+  background-image: url(backimage.jpeg);
+}
 
-height: 100%;
-background-image: image(css/backimage.jpeg);
-background-size: cover;
-} 
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
