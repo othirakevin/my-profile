@@ -9,10 +9,16 @@ body {
 
 }
 .text-box{
+  margin: 20px;
   padding: 100px;
-  border-left: 2px solid red;
+  border-left: 15px solid black;
   border-right: 4px solid blue;
   border-top: 6px solid orange;
   border-bottom: 8px solid black;
     
+}
+
+.name {
+  font-size: 30px;
+  font-style: italic;
 }
